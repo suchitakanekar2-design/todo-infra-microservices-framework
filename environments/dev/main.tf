@@ -3,6 +3,7 @@ locals {
     "ManagedBy"   = "Terraform"
     "Owner"       = "TodoAppTeam"
     "Environment" = "dev"
+    "credit" = "$5"
   }
 }
 
